@@ -10,7 +10,7 @@ var typed = new Typed(".text", {
 
 
 var typed = new Typed(".logo", {
-    strings: ["Kalejaiye's Portfolio"],
+    strings: ["Kalejaiye"],
     typeSpeed:100,
     backSpeed:500,
     backDelay:1000,
